@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0ed57bb7-34fc-413f-b455-8b793300f09c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Applicants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Classez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/Entities/NonAcademicStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Teachers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/Entities/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/enums/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/enums/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/ApplicantsServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/NonAcademicStaffImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/PrincipalServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/SchoolServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/StudentServiceImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/TeacherServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/UserServiceImplem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/services/ApplicantsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/services/NonAcademicStaffService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/services/PrincipalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/services/SchoolService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/services/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/services/TeacherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/services/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/utility/StudentsUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/utility/TeachersUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/watweneed/Dataset2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/proper/school/watweneed/DatasetforseedingTeachers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/proper/school/serviceImplimentation/PrincipalServiceImpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/proper/school/serviceImplimentation/TeacherServiceImplTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/Main.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Applicants.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Courses.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/Entities/NonAcademicStaff.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Principal.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Staff.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Students.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/Entities/Teachers.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/Entities/User.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/enums/Role.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/ApplicantsServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/NonAcademicStaffImp.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/PrincipalServiceImp.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/SchoolServiceImp.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/StudentServiceImp.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/serviceImplimentation/TeacherServiceImpl.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/services/ApplicantsService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/services/NonAcademicStaffService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/services/PrincipalService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/services/SchoolService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/services/StudentService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/services/UserService.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/utility/StudentsUtil.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/utility/TeachersUtil.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/watweneed/DatasetforseedingStudents.csv" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/proper/school/watweneed/DatasetforseedingTeachers.csv" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/org/proper/school/serviceImplimentation/PrincipalServiceImpTest.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test/java/org/proper/school/serviceImplimentation/TeacherServiceImplTest.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2X99OTkqOLM2YiQEDNfiAMv2Ofu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.proper.school.enums" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.proper.school.serviceImplimentation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.proper.Main" />
+      <module name="SchoolProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.proper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalServiceImpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.proper.school.serviceImplimentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.proper.school.serviceImplimentation" />
+      <option name="MAIN_CLASS_NAME" value="org.proper.school.serviceImplimentation.PrincipalServiceImpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrincipalServiceImpTest.testAdmitStudentEligible" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SchoolProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.proper.school.serviceImplimentation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.proper.school.serviceImplimentation" />
+      <option name="MAIN_CLASS_NAME" value="org.proper.school.serviceImplimentation.PrincipalServiceImpTest" />
+      <option name="METHOD_NAME" value="testAdmitStudentEligible" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PrincipalServiceImpTest.testAdmitStudentEligible" />
+        <item itemvalue="JUnit.PrincipalServiceImpTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ed57bb7-34fc-413f-b455-8b793300f09c" name="Changes" comment="" />
+      <created>1698030396588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698030396588</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SchoolProject$PrincipalServiceImpTest_testAdmitStudentEligible.ic" NAME="PrincipalServiceImpTest.testAdmitStudentEligible Coverage Results" MODIFIED="1698232388048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.proper.school.serviceImplimentation.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SchoolProject$PrincipalServiceImpTest.ic" NAME="PrincipalServiceImpTest Coverage Results" MODIFIED="1698231332287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.proper.school.serviceImplimentation.*</FILTER>
+    </SUITE>
+  </component>
+</project>
